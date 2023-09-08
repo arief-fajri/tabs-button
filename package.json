@@ -1,5 +1,5 @@
 {
-	"name": "tabsunderline",
+	"name": "tabs-button",
 	"version": "0.0.1",
 	"scripts": {
 		"dev": "vite dev",
